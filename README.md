@@ -1,1 +1,1 @@
-Vonovia Data Analyst case study
+Data Analyst case study
